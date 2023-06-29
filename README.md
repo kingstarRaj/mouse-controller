@@ -3,8 +3,8 @@ This AI based project controls the mouse movement using Python,OpenCV and pyauto
 The Gesture-Controlled Virtual Mouse is a software application that allows users to control the computer cursor using hand gestures. By leveraging gesture recognition technology and a camera/sensor, users can navigate the computer interface without the need for a physical mouse. This README provides an overview of the project, installation instructions, and usage guidelines.
 
 # Features
-Hand gesture recognition: The system accurately detects and interprets predefined hand gestures.
-Cursor movement: Control the computer cursor's movement by moving your hand in different directions.
-Click and selection: Perform left-click, right-click, and other mouse actions using specific hand gestures.
-Customizable gestures: Modify or add new gestures based on your preferences.
-Sensitivity adjustment: Fine-tune the gesture recognition sensitivity to suit your hand movements.
+1) Hand gesture recognition: The system accurately detects and interprets predefined hand gestures.
+2) Cursor movement: Control the computer cursor's movement by moving your hand in different directions.
+3) Click and selection: Perform left-click, right-click, and other mouse actions using specific hand gestures.
+4) Customizable gestures: Modify or add new gestures based on your preferences.
+5) Sensitivity adjustment: Fine-tune the gesture recognition sensitivity to suit your hand movements.
